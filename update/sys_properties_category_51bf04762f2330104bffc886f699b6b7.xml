@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties_category">
+    <sys_properties_category action="INSERT_OR_UPDATE">
+        <name>NeedIt Properties</name>
+        <sys_class_name>sys_properties_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-11-04 13:25:41</sys_created_on>
+        <sys_id>51bf04762f2330104bffc886f699b6b7</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>NeedIt Properties</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_properties_category_51bf04762f2330104bffc886f699b6b7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-11-04 13:52:58</sys_updated_on>
+        <title><![CDATA[<p style="text-align: center;"><strong><img style="align: baseline;" title="" src="sys_attachment.do?sys_id&#61;4fff4cf22f2330104bffc886f699b664" alt="" width="560" height="315" align="baseline" border="" hspace="" vspace="" /></strong></p>
+<p style="text-align: center;"><strong>Aldo, Giovanni e Giacomo</strong> è un trio <a title="" href="https://it.wikipedia.org/wiki/Commedia" rel="nofollow">comico</a> di <a title="Attore" href="https://it.wikipedia.org/wiki/Attore" rel="nofollow">attori</a>, <a title="Sceneggiatore" href="https://it.wikipedia.org/wiki/Sceneggiatore" rel="nofollow">sceneggiatori</a> e <a title="Regista" href="https://it.wikipedia.org/wiki/Regista" rel="nofollow">registi</a> <a title="Teatro" href="https://it.wikipedia.org/wiki/Teatro" rel="nofollow">teatrali</a>, <a title="Televisione" href="https://it.wikipedia.org/wiki/Televisione" rel="nofollow">televisivi</a> e <a title="Cinema" href="https://it.wikipedia.org/wiki/Cinema" rel="nofollow">cinematografici</a> <a title="Italia" href="https://it.wikipedia.org/wiki/Italia" rel="nofollow">italiani</a>, formato da <a title="Aldo Baglio" href="https://it.wikipedia.org/wiki/Aldo_Baglio" rel="nofollow">Aldo Baglio</a>, <a title="Giovanni Storti" href="https://it.wikipedia.org/wiki/Giovanni_Storti" rel="nofollow">Giovanni Storti</a> e <a title="Giacomo Poretti" href="https://it.wikipedia.org/wiki/Giacomo_Poretti" rel="nofollow">Giacomo Poretti</a>.</p>]]></title>
+    </sys_properties_category>
+    <sys_translated_text action="delete_multiple" query="documentkey=51bf04762f2330104bffc886f699b6b7"/>
+</record_update>
